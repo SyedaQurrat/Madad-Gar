@@ -42,6 +42,16 @@ git commit -m "your message"
 git push origin your-name-branch
 ```
 
+ ## UI Reference
+
+For designing the frontend screens, please refer to this website for layout, color scheme, and component inspiration:  
+[LocalConnect App UI/UX Case Study – Local Service App](https://www.behance.net/gallery/233650615/LocalConnect-App-UIUX-Case-Study-Local-Service-App)
+
+- Focus on **clean, simple design** for booking and profile pages.  
+- Pay attention to **buttons, forms, and navigation flow**.  
+- Keep **responsive design** in mind (mobile + desktop).
+
+
 # Day-Wise Roadmap
 ## Day 1 – Research & Setup
 
@@ -144,3 +154,5 @@ git push origin your-name-branch
 ### Backend Team:
 
 - Explain Firebase integration (Auth, Firestore, Messaging, Payments).
+
+ 
