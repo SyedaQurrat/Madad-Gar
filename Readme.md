@@ -24,15 +24,19 @@ Our goal is to build a **Safe & Smart Home Services App** where users can easily
 ##  Setup Instructions  
 
 1. Clone repository:  
-   ```bash
-   git clone <repo-link>
-```
+   ```
+   git clone https://github.com/SyedaQurrat/Madad-Gar.git
+   ```
+
 2. Create your branch:
-git checkout -b your-name-branch
+
+  ```
+   git checkout -b your-name-branch
+  ```
 
 3. Work on assigned files/folders, then push code:
 
-```bash
+```
 git add .
 git commit -m "your message"
 git push origin your-name-branch
